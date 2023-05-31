@@ -1,0 +1,10 @@
+{
+    "locators": {
+        "inputField": ".k_form_field > input",
+        "error_text": ".k_f_error_text",
+        "error_color": "rgb(231, 81, 73)",
+        "authorization": {
+            "btn_enter": ".k_form_send_auth"
+        }
+    }
+}
